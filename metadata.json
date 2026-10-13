@@ -1,0 +1,6 @@
+{
+  "name": "Pesikalam - Namma Vibe, Namma Chat",
+  "description": "Instagram-style social and messaging app with a vibrant Tamil urban aesthetic, Stories, Reels, real-time Chat, and Gemini-powered AI Machan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
